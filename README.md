@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending club Case Study
+> Risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers..
 
 
 ## Table of Contents
@@ -11,38 +11,33 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+1. Lower annual incomes are more likely to be defaulter
+2. Higher the interest rate higher charged off ratio
+3. Those who are not working or have less than 1 year of work experience have 4. high chances of getting charged off
+5. Grade "F" and "G" have very high chances of charged off.
+6. Small Business applicants have high chances of getting charged off.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python   -  version 3.0
+- Matplotlib
+- Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was created to explore and apply our EDA learning.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by ursharry@github.com - feel free to contact me!
 
 
 <!-- Optional -->
